@@ -6,6 +6,15 @@
 
 Sourced was built for the **Startup Track** of the **Hong Kong AI Summit: BUILD ACROSS Hackathon**. It helps students search for internships, scholarships, research placements, fellowships, and other opportunities. It combines source-linked web search with a reviewed student profile, transparent eligibility and funding details, and two ways to track applications: a browser-local Journey and an account-backed Tracker.
 
+## My contributions (Ellie Tang)
+Co-built this app with @hajarmrifag for the HK AI Summit BUILD ACROSS Hackathon (Startup Track).
+
+- **Application tracker:** tracks internships users apply to through the platform, and updates each application's stage (e.g. first round, test completed) from the user's email
+- **Coffee chat tracker:** users log networking coffee chats, and the app reminds them when to follow up based on where each conversation is
+- **Backend & database:** designed and built the Supabase database for the whole app, including the data structure behind opportunities, applications, and user tracking
+
+**Tech:** Lovable, TypeScript, React, Supabase
+
 The repository was developed as **Opportunity Compass / OpportunityOS**. The product is branded **Sourced** in the app.
 
 ## Hackathon context
